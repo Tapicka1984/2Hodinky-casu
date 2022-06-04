@@ -1,0 +1,11 @@
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\TOMAS\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
